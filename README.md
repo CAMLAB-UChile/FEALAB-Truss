@@ -3,5 +3,7 @@
 
 # RUN
 This is a Graphic User Interface with solver. To run it, just RUN the file:
+
 fealab_truss_1_1.m
-as usual fromn the MATLAB user interface.
+
+as usual from the MATLAB user interface.
